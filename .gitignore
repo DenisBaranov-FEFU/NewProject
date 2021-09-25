@@ -1,0 +1,4 @@
+#Ignore Temp/ Folder
+Temp
+#Ingore *.tmp in Log Folder
+Log/*.tmp
