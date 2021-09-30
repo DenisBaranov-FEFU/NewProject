@@ -1,0 +1,4 @@
+#git log>log7.txt -3 --pretty=oneline
+a9038f3043418a0b76f95b0885e3c5cdf1719b31 'Task2_Complated'
+027053a8ac831d1741557384f84ed8d74fd7feab 'Work_in_Progress_Task_2'
+ad3a70a3152998a86c8979a7f925eeee42f0d13e Second file added
