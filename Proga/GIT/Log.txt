@@ -1,0 +1,41 @@
+#git log>log.txt --stat
+commit a9038f3043418a0b76f95b0885e3c5cdf1719b31
+Author: Denis Baranov <baranov-2004@list.ru>
+Date:   Sat Sep 25 14:50:41 2021 +1000
+
+    'Task2_Complated'
+
+ MyStop.txt  | 1 +
+ MyText.txt  | 1 -
+ MyText2.txt | 0
+ 3 files changed, 1 insertion(+), 1 deletion(-)
+
+commit 027053a8ac831d1741557384f84ed8d74fd7feab
+Author: Denis Baranov <baranov-2004@list.ru>
+Date:   Sat Sep 25 12:14:01 2021 +1000
+
+    'Work_in_Progress_Task_2'
+
+ .gitignore    | 4 ++++
+ Log/main.html | 0
+ 2 files changed, 4 insertions(+)
+
+commit ad3a70a3152998a86c8979a7f925eeee42f0d13e
+Author: Denis Baranov <baranov-2004@list.ru>
+Date:   Sat Sep 25 12:09:24 2021 +1000
+
+    Second file added
+
+ .gitignore  | 0
+ MyText.txt  | 1 +
+ MyText2.txt | 0
+ 3 files changed, 1 insertion(+)
+
+commit f51e936ae7852f50d78a20ff7decbc3085935814
+Author: Denis Baranov <baranov-2004@list.ru>
+Date:   Fri Sep 24 22:22:55 2021 +1000
+
+    MyOwnCommit
+
+ MyText.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
